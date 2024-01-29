@@ -25,7 +25,17 @@
 
 ---
 
-### 🎯 Fluent in programming languages and business language
+## 🛠 &nbsp;Tech Stack
+
+### 🎨 &nbsp;Front-end
+
+![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=FCE803)&nbsp;
+![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
+
+
 <!--
 **MandeepBartwal/MandeepBartwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
